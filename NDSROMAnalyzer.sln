@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NDSROMAnalyzer", "NDSROMAnalyzer\NDSROMAnalyzer.csproj", "{AEE2D20B-C55E-4F0C-A2CE-9A9938114E20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE2D20B-C55E-4F0C-A2CE-9A9938114E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE2D20B-C55E-4F0C-A2CE-9A9938114E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE2D20B-C55E-4F0C-A2CE-9A9938114E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE2D20B-C55E-4F0C-A2CE-9A9938114E20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFD35A41-C3D4-483B-8087-DC64BCEFEEBC}
+	EndGlobalSection
+EndGlobal

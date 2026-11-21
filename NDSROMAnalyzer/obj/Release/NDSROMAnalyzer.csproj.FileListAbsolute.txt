@@ -18,3 +18,14 @@ C:\workspace_sandbox\NDSROMAnalyzer\NDSROMAnalyzer\bin\Release\NDSROMAnalyzer.pd
 C:\workspace_sandbox\NDSROMAnalyzer\NDSROMAnalyzer\obj\Release\NDSROMAnalyzer.Properties.Resources.resources
 C:\workspace_sandbox\NDSROMAnalyzer\NDSROMAnalyzer\obj\Release\NDSROMAnalyzer.exe
 C:\workspace_sandbox\NDSROMAnalyzer\NDSROMAnalyzer\obj\Release\NDSROMAnalyzer.pdb
+C:\Users\Administrator\source\repos\NDSROMAnalyzer\NDSROMAnalyzer\bin\Release\NDSROMAnalyzer.exe.config
+C:\Users\Administrator\source\repos\NDSROMAnalyzer\NDSROMAnalyzer\bin\Release\NDSROMAnalyzer.exe
+C:\Users\Administrator\source\repos\NDSROMAnalyzer\NDSROMAnalyzer\bin\Release\NDSROMAnalyzer.pdb
+C:\Users\Administrator\source\repos\NDSROMAnalyzer\NDSROMAnalyzer\obj\Release\NDSROMAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\NDSROMAnalyzer\NDSROMAnalyzer\obj\Release\NDSROMAnalyzerHeaderEditor.AboutBox.resources
+C:\Users\Administrator\source\repos\NDSROMAnalyzer\NDSROMAnalyzer\obj\Release\NDSROMAnalyzer.Form1.resources
+C:\Users\Administrator\source\repos\NDSROMAnalyzer\NDSROMAnalyzer\obj\Release\NDSROMAnalyzer.Properties.Resources.resources
+C:\Users\Administrator\source\repos\NDSROMAnalyzer\NDSROMAnalyzer\obj\Release\NDSROMAnalyzer.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\NDSROMAnalyzer\NDSROMAnalyzer\obj\Release\NDSROMAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NDSROMAnalyzer\NDSROMAnalyzer\obj\Release\NDSROMAnalyzer.exe
+C:\Users\Administrator\source\repos\NDSROMAnalyzer\NDSROMAnalyzer\obj\Release\NDSROMAnalyzer.pdb
